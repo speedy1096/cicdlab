@@ -12,7 +12,7 @@ Our goal is to ensure our pipeline works well after each code being pushed. The 
 * Run Sonarqube analysis on the code
 * Create Docker image
 * Push the image to Docker Hub
-* Pull and run the image
+* Pull and run the image 
 
 ## First step, running up the services
 
